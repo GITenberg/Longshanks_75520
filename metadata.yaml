@@ -1,0 +1,40 @@
+_repo: Longshanks_75520
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Shenton, Edward
+    birthdate: 1895
+    deathdate: 1977
+    gutenberg_agent_id: '37043'
+    url: http://www.gutenberg.org/2009/agents/37043
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Shenton
+creator:
+  author:
+    agent_name: Meader, Stephen W. (Stephen Warren)
+    alias: Meader, Stephen Warren
+    birthdate: 1892
+    deathdate: 1977
+    gutenberg_agent_id: '33325'
+    url: http://www.gutenberg.org/2009/agents/33325
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_W._Meader
+description: ''
+gutenberg_issued: '2025-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75520'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.117337&seq=1
+pgterms:marc905: 20250107103924meader
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bHarcourt, Brace and Company, Inc., $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Longshanks
+url: http://www.gutenberg.org/ebooks/75520
