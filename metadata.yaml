@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '37043'
     url: http://www.gutenberg.org/2009/agents/37043
     wikipedia: https://en.wikipedia.org/wiki/Edward_Shenton
+covers:
+- cover_type: archival
+  image_path: 75520-h/images/cover.jpg
 creator:
   author:
     agent_name: Meader, Stephen W. (Stephen Warren)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33325
     wikipedia: https://en.wikipedia.org/wiki/Stephen_W._Meader
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75520#Longshanks
 gutenberg_issued: '2025-03-04'
 gutenberg_type: Text
 identifiers:
